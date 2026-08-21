@@ -41,7 +41,7 @@ Beyond-trivial (any): changes public/API behavior, needs data migration, is sens
 - Trivial: no task file, still ask if ambiguous, still inline plan.
 - Sensitive: never trivial, always task file.
 
-Location: `~/AI_Task/<project-name>/` (Win: `%USERPROFILE%\AI_Task\<project-name>\`)
+Location: `~/AI_Task/<project-name>/`
 
 Beyond-trivial flow:
 1. Ask clarifying questions.
